@@ -1,4 +1,4 @@
-## Line by line the exact same code given to us as an example
+## Line by line nearly the exact same code given to us as an example, except vectors are now matrices
 
 ## Creating a cache for the inverse of our matrix
 makeCacheMatrix <- function(X = matrix()) {
